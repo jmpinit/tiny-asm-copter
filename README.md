@@ -1,6 +1,8 @@
+[Video of the project.](https://vimeo.com/110753789)
+
 Firmware and utilities for a one-off helicopter game device that coupled an ATTiny13 to a Nokia 3310 LCD and 1 button.
 
-Made while I was in HS for fun and for challenge. Written in assembly. 1 KB code space, 64 bytes of RAM, and 1 MHz clock. Project details on [my blog](http://owentrueblood.me/blog.html).
+Made while I was in HS for fun and for challenge. Written in assembly. 1 KB code space, 64 bytes of RAM, and 1 MHz clock.
 
 The level gen program is a Processing sketch that outputs a source file representing a level for the game.
 
